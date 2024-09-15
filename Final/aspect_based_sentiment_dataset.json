@@ -1,0 +1,5933 @@
+[
+    {
+        "text": "Nun ali dherai vayo momo ma .. testing",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "I am so impressed with the prompt service. Dami",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Momo thikai thiyo.ali piro thiyo chatni. environment thikai thikai thiyo.smoke drink garne khane sabai eutai ma vayera hola ali smoke smell aathiyo",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Thikai thiyo khana",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "foodmandu bata order gareko biryani offer ko time thiyo tei vayera hola testo mitho thiyana...like eti price ma estai auxa jasto",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Thakali chicken set khana mitho xa, environment ni ekdam peace family friends sanga dinner aauna ekdam fit hunxa",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Jhol momo ekdam mitho xa and staff pani friendly xa",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ekdam ramro. Manxe dherai huda customer service ramro vayena.Price as compared to others and quality ali badhi bhayo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Kati mitho khana xa yar yo restaurant ma.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Mitho xaina.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Sab thik cha",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Tasty food and beautiful ambience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "I recently had the chance of breakfast at white Revit and its awesome food and service.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Waiter le time ma response garenan. Kam piro bhaneko piro ra badhi chillo order aaepyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Paratha thikai thiyo",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Decoration dharai ramro ra service pane dharai ramro thiyo",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Kasto man mohit waiter yrr",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Pani ko taste man parena",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Veg khana rakhnai birse xa jasto xa. Veg momo lai hepeko jasto xa",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "yo yes cafe ma ta kehi ramro paidain hai sathi",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Chiya ma chini thorai thiyo..tara maile khaye",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Masu bhat best cha hai",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "mero pani chiya ma chini thorae thiyo..tara maile alikati thapera khaye .from kapil dev belbase",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "chowmin khada sauce na diyena",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Masu thapnu payena",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Masu chaiyeo",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Mitho xaina",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Khattam xa",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yeti namitho pakauna laj lagdaina",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Masu mitho xaina -key_eyeyes",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Khana ma matra bhat ra dal xa roti ko option nai xain so roti khane le khana pako xain Add garnus la",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Swad ma mitho thiyo tara chillo piro ali dherai vayo",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Sabai ramro thiyo but ali ali raining le garda bore pani vayo babal majja pani aayo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Yeha ko tarkari samosa sanga chiya dami xa",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Aaja dal mitho theyana",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "yeta dateing ko lagi thau thik xaina cheya ne metho theyana",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Momo mitho xa",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "waiter le dherai nai dhila garyo khana lyauna. aru services haru thikai tyo",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "pani tato raixa tongue polyo",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "malai waiter ko behaviour mann parena.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Ham Burger was so good.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "rajma thik xaina. dherai patalo jhol vayo",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Mitho thiyo Tara Ali badhi burnt smell aairaakheko thiyo",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Asti koteshowr ko hotel ma mo:mo khako mitho ta thiyo tara jhol chai ekdam piro thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Mitho thiyo yekdam dheraiiiiiiiiiiiiiiii",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Piro naii thiyena ani nun pani thiyena tara khanai paryo",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Paisa ali dheraii thiyo tara mitho ni thiyo",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "chyaa kasto namitho khana, paisa mtara kharcha!",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "chowmen khako, banda ma chowmein rakhera diyo!",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "esti hakka noodles khana gayeko chutya le last piro banayera diyo xya. Tara dammi chae dammmi theo haiii",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "yaha ko jasto pizza maile aaja samma khako thina, bhagya ma lekhera aaunu parcha yaha ko pizza khana ta!",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "thait teri matokney, kasto deko burger magako pauroti khuwayo pizza magako sukeko roti mah sause halera khanu andira",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "muji khaja khana gako the Bashi khaja diyo. yesto riss uthya xa muji dekhi, tesko pasal aago lai dinu jasto vako xa..",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana mitho thiyo ani price pani afforable thiyo",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Order gariyo ko aanusar khana ko quantity ra taste teti ramro thiyena",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "The momo seemed bit undercooked .and the achar was too salty,",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "hamile cheese-and-chicken momo ra keema noodles as suggested mitho hunxa vanera expect garera gako thiyeu but tyo okay type samma ko close pani payenam. New place",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "aaja try gareko bacon and fruit platter chai thikai nai thiyo vannu parda, and addition of watermelon juice was okay okay for my personal taste",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "baneshwor ko keema noodles is the best one",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "hostel ko daal khada pani vanda patalo vayera nilina pani niliyena",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "asti khako momo lastai bhanda ni lastai oily thiyo, ani maida khacho poni thiyo that was worst for me.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "place hygienic xa. momos are super juicy. ambience is average",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "today we went to a place where we ate tea and lassi. The place was fun and comfy and we could play board games as well. it was a fun place and good experience overall",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "i didn't like the customer service.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "aaja ko thau chai best nai lagyo malai tya ho service atti nai wow thiyo, order gareko item poni time mai lyaidinu bhathiyo ani tya ko drinks poni expectation anusarnai bhayo",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "j hos yehako jhol momo chai winter time ko lagi best nai xa hai",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "teha khana jada laphing was best with best spices but keema noodles chai over cooked thiyo, hope that was only one time",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "the manager is very handsome and well speaking",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "yo place ma chai mero favorite till now vaneko chai lemon tea with ginger and honey ho hai",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "maple glazee chicken thikai lagyo from my side",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "chicken momo baneko malai buff ko momo deyo",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "matcha latte chai khnai sakina, literally matcha latte malai man parthiyo tara tya khaya bata tw feri khanxu jasto ta lagdaina",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "chowmein ma cockroach thiyo xya",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "momo ma musa ko tooth thiyo",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Chicken BBQ pizza kati mithoooo",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "khasei testo mitho ta lagena tara cost anusar thikai ni ho, ani waiter haruko beura chai kasto ris uthdo hou",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "nice ambiance but waiter le order gareko chicken pizza ko satta cheese pizza lyaidiyo",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "mitho raixa",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "xyaaaaaaaaaa k ho testo khana ko taste",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "ramro raixa sabai kura tara alik cleanliness ma dhyan dinu paryo",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Taste of food is good in s cafe but not hygienic Like chowmien ma thkai thiyo but kaile achar ma smell aaucha ta kaile noodle ma otherwise all good but their is no hygiene in their cafe tyo maintain garnu paryo",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "I recently visited Sanepa Delight and was thoroughly impressed by their food and services. The star of the evening was undoubtedly the Chicken C Momo. The dumplings were perfectly cooked, with a soft, tender wrapper and a filling that was flavorful and juicy. The blend of spices in the chicken was just right, making each bite a delightful experience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "aauta naya thaau dekhera khana gako the, ambience chai babbal lagyo. aani tespaxi chiya, churot magaye. churot ta yekkai xin mai layediyio, tara chita ta jhandai 1 hrs layo haau layedina ni. tei mathi fateko dudh ko chiya jastai thiyi. xyaa muji bekkar chiya khaye jastai lagya thiyo. tyo din dekhi tya gako xaina chiya khana lai. Tara waiter chai last sexyy thiyo haai tyo resturant ko. staff matra sexyy rakhera hunna raixa, khane kura ni mitho banauna paryo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "seat ma basi sake paxi pani, order lina ko lagi kunai response nai aayena. Afai gayera order diyera aaye. Ali table haru messy thiyo",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Momo mitho thiyo, ramro tarika ma masala lagayeko thiyo ra juicy pani thiyo. Mahol sajilo thiyo ra swagat gariraheko thiyo. Nishchit rupma punah audai chhu!",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Dal bhat ko swad kami thiyo ra mulya ko lagi ali kam bhat thiyo. Overall anubhav le man parena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Thakali set asli thiyo ra swadisht thiyo. Serve gareko vividh bhoj haru manparo. Uchit samjhiyeko!",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Seva dhilo thiyo ra khana naramro thiyo. Intajar garna ya mulya ko lagi yogyana thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Momo chutney mero ruchi ko lagi dherai tato thiyo tara mukhya bhoj swadisht thiyo. Tato khana manparne haruko lagi subhawana garchhu.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Mahol jivantriko thiyo ra karmachari sajilo thiyo. Bhogera live sangeet pradarshan bhogera maza lina sakne. Yaadgar anubhav!",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Aloo tama dherai khatta thiyo ra bhat adhik pakaye. Swad ya gunasampannata ko man parena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Momo sada thiyo, khasai atiuttama thiyo bhawishya ma aayeko prashansa raheko yastai antarwasita ko drishtanta.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Sel roti crispy ra swadisht thiyo. Ghar ma pakka bhojan yaad dilayo. Nishchit rupma punah aaunchhu!",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Seva uttam thiyo, tara khana asliyat ma kami thiyo. Euta Nepali restaurant bata yo prashansa garda sadhai ashanka thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Momo was delicious but the dal bhat was bland. #disappointed",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Thakali set \u0925\u093e\u0939\u093e \u092d\u0928\u094d\u0926\u093e \u0938\u094d\u0935\u093e\u0926\u093f\u0937\u094d\u091f \u0925\u093f\u092f\u094b! Definitely worth it! \ud83c\udf5b",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Service was slow, food \u0905\u091a\u094d\u091b\u093e \u0925\u093f\u092f\u094b\u0964 \ud83d\ude0a",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Loved the live \u0938\u0902\u0917\u0940\u0924 performance while dining. \ud83c\udfb5 #memorable",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Aloo tama too sour, momo chutney \u0925\u094b\u0930\u0948 spicy \u0925\u093f\u092f\u094b\u0964 \ud83d\ude13",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Ambiance \u091a\u093e\u0930\u094d\u092e\u093f\u0919 \u0925\u093f\u092f\u094b\u0964 Enjoyed \u0938\u091c\u093f\u0932\u094b atmosphere\u0964 \ud83d\udc4d",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Momo was average, sel roti crispy \u0925\u093f\u092f\u094b\u0964 #mixedfeelings",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Excellent service, food lacked authenticity. #notimpressed",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Enjoyed the authentic taste of thukpa. Recommended! \ud83c\udf5c",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Bhat was overcooked, but the momo sauce was tangy! \ud83d\ude0b",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Momo was tasty, but dal bhat was bland. #disappointed",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Thakali set jhanjhat nagarnuhos! It was delicious! \ud83c\udf5b",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Service was dherai slow, khana pani ramro thiyena\u0964 \ud83d\ude15",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Loved the live music performance while dining. #memorable",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Aloo tama too sour, momo chutney thora spicy thiyo\u0964 \ud83d\ude13",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Ambiance ramro thiyo\u0964 Enjoyed the atmosphere\u0964 \ud83d\udc4d",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Momo was average, sel roti crispy thiyo\u0964 #mixedfeelings",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Excellent service, khana lacked authenticity. #notimpressed",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Enjoyed the authentic taste of thukpa. Recommended! \ud83c\udf5c",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Bhat was overcooked, but the momo sauce was tangy! \ud83d\ude0b",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Momo was delicious, but dal bhat was bland. #disappointed",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Thakali set jhanjhat nagarnuhos! It was delicious! \ud83c\udf5b",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Service was dherai slow, khana pani ramro thiyena\u0964 \ud83d\ude15",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Loved the live music performance while dining. #memorable",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Aloo tama too sour, momo chutney thora spicy thiyo\u0964 \ud83d\ude13",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Ambiance ramro thiyo\u0964 Enjoyed the atmosphere\u0964 \ud83d\udc4d",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Momo was average, sel roti crispy thiyo\u0964 #mixedfeelings",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Excellent service, khana lacked authenticity. #notimpressed",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Enjoyed the authentic taste of thukpa. Recommended! \ud83c\udf5c",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Bhat was overcooked, but the momo sauce was tangy! \ud83d\ude0b",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The ambiance was cozy, but the food was subpar. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Momo chutney was too spicy for my taste, but the sel roti was delicious! \ud83d\ude0b",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The service was excellent, but the momo lacked flavor. #mixedfeelings",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Loved the thakali set, but the dal was too salty. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The ambiance was vibrant, but the thukpa lacked authenticity. #mixedfeelings",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Momo was scrumptious, but the aloo tama was too sour. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Service was prompt, but the food was mediocre. #mixedfeelings",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The music was soothing, but the momo sauce was too spicy. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Loved the live music, but the food was overpriced. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "price",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The dal bhat lacked flavor, but the sel roti was heavenly! \ud83d\ude07",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The momo was average, but the aloo tama was exceptional! \ud83c\udf1f",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Service was friendly, but the ambiance was lacking. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The thakali set was authentic, but the aloo tama was too sour. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Loved the momo, but the thukpa was disappointing. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Service was slow, but the food made up for it. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The ambiance was cozy, but the momo was underwhelming. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The sel roti was crispy, but the dal was too watery. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Loved the music, but the dal bhat was bland. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The thukpa was delicious, but the aloo tama was too sour. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Service was excellent, but the momo lacked seasoning. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The ambiance was welcoming, but the thakali set was mediocre. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Loved the sel roti, but the dal was too salty. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The momo chutney was too spicy, but the thukpa was excellent! #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Service was slow, but the ambiance was fantastic! #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The aloo tama was too sour, but the sel roti was perfect! #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Loved the live music, but the thakali set was lacking flavor. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The momo was delicious, but the dal bhat was disappointing. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Service was friendly, but the food was overpriced. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The ambiance was cozy, but the thukpa was mediocre. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Loved the sel roti, but the momo was bland. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The aloo tama was too sour, but the dal was too salty. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Service was excellent, but the ambiance was lacking. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "The thakali set was authentic, but the momo lacked flavor. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Loved the music, but the dal bhat was bland. #mixedexperience",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Momo mitho thiyo, tara dal bhat mitha thiyo. Disappointed.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Thakali set mitho thiyo! Recommended!",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Seva dherai slow thiyo, khana pani ramro thiyena\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Live music performance while dining ramro lagyo\u0964 Memorable.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Aloo tama too sour thiyo, momo chutney thora spicy thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Mahol ramro thiyo\u0964 Atmosphere lai enjoy gare\u0964",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Momo average thiyo, tara sel roti crispy thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Excellent service, tara khana authentic thiyo\u0964 Not impressed.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Thukpa ko authentic swad man lagyo\u0964 Recommended!",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Bhat overcooked thiyo, tara momo sauce tangy thiyo!",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Ambiance cozy thiyo, tara khana subpar thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Momo chutney too spicy for my taste, tara sel roti delicious thiyo!",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Service excellent thiyo, tara momo flavor lack gareko thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Thakali set ko swad man lagyo, tara dal too salty thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Ambiance vibrant thiyo, tara thukpa authentic thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Momo scrumptious thiyo, tara aloo tama too sour thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Seva prompt thiyo, tara khana mediocre thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Music soothing thiyo, tara momo sauce too spicy thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Live music lai enjoy gare, tara khana overpriced thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Dal bhat flavor lack gareko thiyo, tara sel roti heavenly thiyo!",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Momo mitho thiyo, sajilo thauma khana garna sakinxa\u0964 Recommended!",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Dal bhat flavorful thiyo, tara momo chutney jhanjhat thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Thakali set swadisht thiyo, tara service dherai slow thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Aloo tama too sour thiyo, tara khana overpriced thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Ambiance vibrant thiyo, tara momo average thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Sel roti crispy thiyo, tara thukpa spicy thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Excellent service, tara food presentation lacking thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Loved the live music, tara aloo tama too spicy thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Momo chutney tangy thiyo, tara dal bhat bland thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Thakali set authentic thiyo, tara ambiance crowded thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Service friendly thiyo, tara khana too salty thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Loved the sel roti, tara momo texture too soft thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Momo average thiyo, tara thukpa too oily thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Ambiance cozy thiyo, tara dal bhat lacking flavor thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Thukpa flavorful thiyo, tara momo too spicy thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Service prompt thiyo, tara aloo tama too sour thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Loved the live music, tara thakali set lacking variety thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Momo delicious thiyo, tara dal bhat overcooked thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Thakali set authentic thiyo, tara momo chutney too spicy thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Service excellent thiyo, tara khana lacking seasoning thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Loved the ambiance, tara sel roti undercooked thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Momo juicy thiyo, tara aloo tama too sour thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Dal bhat tasty thiyo, tara thukpa too bland thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Thakali set authentic thiyo, tara service slow thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Aloo tama too sour thiyo, tara ambiance too loud thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Ambiance cozy thiyo, tara momo too spicy thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Sel roti crispy thiyo, tara thukpa lacking flavor thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Service prompt thiyo, tara dal bhat too salty thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Loved the live music, tara momo too soft thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Momo chutney tangy thiyo, tara thakali set too oily thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Thakali set flavorful thiyo, tara ambiance too crowded thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Excellent service, tara aloo tama too sour thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Loved the sel roti, tara momo too bland thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Momo juicy thiyo, tara dal bhat too salty thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Thakali set authentic thiyo, tara thukpa too bland thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Aloo tama too sour thiyo, tara service slow thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Ambiance cozy thiyo, tara momo too spicy thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Sel roti crispy thiyo, tara dal bhat too watery thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Service prompt thiyo, tara thukpa too oily thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Loved the live music, tara momo too soft thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Momo chutney tangy thiyo, tara aloo tama too sour thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Thakali set flavorful thiyo, tara ambiance too crowded thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Excellent service, tara thukpa too bland thiyo\u0964",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko khana dherai mitho thiyo!",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Ma ekdam khusi chu esko service le.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Sadhai samma yo thau ma jana sakdina.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Thik thak cha, khasai mitho xaina khana.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Quality ekdamai naramro cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Ma dherai samaya samma yaha khana khai, dherai santustha chu.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Maile sochya jasto ramro bhayena khana.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Ekdam khusi chu yo restaurant le.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Mero lagi naramro anubhav bhayo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Kamal ko dining experience rahyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko swad ali farak lagyo, ramro lagena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Staff haru dherai helpful ra polite thie.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana pakai dine bela dherai time lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Price anusar quality ramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "price",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Yo thau ko ambience dherai ramro lagyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Cleanliness ko dhyan diyenan.",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Ekchoti gayo pugcha, dherai ramro xaina.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile chahaneko dish available thiena.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Service dherai slow thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant family gathering ko lagi perfect cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko portion size thulo thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Yo thau ma pharkera janchu.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Ekdam naramro experience bhayo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Reservation garnu parcha, hamesha jam packed huncha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Yo thau bata disappointment bhayo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Dherai mitho khana ra ramro service.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Staff haru rude thiye.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Ambience thikai thiyo, tara khana mitho thiena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Price anusar value ramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "price",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Desert section dherai ramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Wait time dherai thulo bhayo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo thau ko drinks collection dherai ramro cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko taste average thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Friendly staff ra quick service.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Bhatmas sadeko dherai mitho thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Restaurant ko location thikai cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Parking space dherai kam cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Service dherai efficient thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Food quality consistent thiena.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Decoration dherai ramro lagyo.",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko portion dherai sano thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Sajilo bhayo yaha dine garnu.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Menu ma variety kam cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Dining experience thikai thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko price ali dherai mahango lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo thau ko momos dherai mitho cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant pheri jana man lagyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko presentation ramro thiena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yaha ko ambience dherai relaxing cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Customer service thikai thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Ekdam dirty table haru thie.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Lively atmosphere ra energetic staff.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Bato ko awaz le dine experience disturb bhayo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Yo thau ko local dishes dherai mitho cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Special requests laai respect garenan.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Dherai sapai option haru available thiye.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Ma satisfied chu yaha ko khana ra service bata.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko taste man parena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo thau date night ko lagi perfect cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Staff haru lai train garnu parcha.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Restaurant ko decor modern ra stylish thiyo.",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Food items list ma unique options kam thiye.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Service charge dherai lagyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Drinks ko selection impressive thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana pako pako thiyena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Dherai ramro family dining ko lagi.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Menu ali confusing lagyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Reservation system smooth thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Dherai loudly bhako cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo thau ko decor traditional ra ramro cha.",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Waiters haru inattentive thie.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Price anusar value ramro cha.",
+        "aspects": [
+            {
+                "aspect": "price",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Yo thau ko momo best cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant bata disappointed bhaye.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Parking facility ramro cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko ambience dherai ramro cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Ambience ramro cha tara food thikai matra cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Service dherai slow ra irritating thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Menu dherai diverse ra interesting cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Ma yaha ko sushi try garna recommend garchu.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Restaurant ma ramro lighting cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Ma satisfied thiena yo restaurant bata.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Dessert options thikai thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Yaha ko khana ekdam fresh lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko price ali high cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Dining experience ekdam ramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Restaurant ko location accessible cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Staff haru laai kasto polite hunu parcha bhanne thaha cha.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ali average thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Buffet ko variety ekdam thulo thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ma salt dherai thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Music ko selection ramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana pachi dessert ko option kam cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Sushi ekdam fresh ra tasty thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Water jug dirty thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Lunch buffet ramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Tandoori chicken dry thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Mo:Mo dherai mitho lagyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Waiters haru friendly thiye.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko portion ali sano thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Environment cozy ra welcoming thiyo.",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko smell ramro lagena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Service ma dhilo bhayo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Spaghetti bolognese perfect thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko taste thikai thiyo, alikati spicy.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Staff haru ko behavior polite thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Table reservation system smooth thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Soup ko taste dull thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Dining area ekdam clean cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko taste inconsistent cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Outdoor seating ramro cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko packaging ramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Beverages options ramro cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Pizza thikai thiyo, ali chewy.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Seafood platter fresh ra delicious thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ma oil dherai thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Indoor decor dherai unique ra modern thiyo.",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma AC ramro sanga kam gardaina.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Burger dherai juicy ra flavorful thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Waiters haru ko attitude rude thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Naan dherai soft ra fresh thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Drinks ko selection kam cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko price budget friendly thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko taste bland thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Ambience romantic ra peaceful thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Pasta overcooked thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Portion size perfect thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Desert ko taste satisfactory thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Staff haru ko efficiency impressive thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Main course dherai flavorful thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Cleanliness ko maapdanda high thiyo.",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko packaging poor thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant children friendly cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko quality up and down thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Decor modern ra classy thiyo.",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko temperature cold thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Dining space dherai spacious cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Service charge reasonable cha.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Chiya ko taste ramro thiena.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko taste authentic thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant easily accessible cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Maile order gareko dish available thiena.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Biryani ekdam flavorful thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Waiters haru attentive thiye.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ma spice dherai kam thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko temperature perfect thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko quality consistent thiena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Restaurant ko vibes ekdam cool cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko presentation aesthetic thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Breakfast buffet dherai ramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Wi-Fi connection slow thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Coffee fresh ra aromatic thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Wait time reasonable thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ma alikati extra flavor add garna parcha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Service quality excellent thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Reservation system easy thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma kaam garna environment thik cha.",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Staffs haru ko behavior helpful thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko texture perfect thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Table arrangement naramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant pet friendly cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana dherai spicy thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Yo thau ko view dherai ramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Waiters haru energetic thiye.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko quantity kam thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma live music cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko variety dherai cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Staffs haru lai communicate garna garho thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Price reasonable cha.",
+        "aspects": [
+            {
+                "aspect": "price",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Dinner buffet dherai expansive thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko taste balanced thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dine garnu ramro experience thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko khana dherai mitho cha. Staff pani ramro cha ra sewa pani cha. Ma pharak din haru jancha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana thikai thiyo tara sewa ali dhilo thiyo. Sajilo mahsoos bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile order gareko khana ta ekdamai besaile pakeko jasto thiyo. Ekdamai niraasha lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko parikar dherai swaadilo cha. Ma pharkera aauna man cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Staff ko vyavhaar ramro thiyo tara khana parosna ma dherai samay lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Ekdamai namitho khana thiyo ra staff pani rudro bhaye jasto lagyo. Ma pharkina chahandina.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Sewa dherai ramro cha ra khana pani mitho cha. Yo best restaurant ho.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Restaurant ko mahal dherai ramailo cha ra khana pani mitho cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Sambandha ko vyavhaar dherai mittha cha ra khana pani swaadilo cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Thikai restaurant ho. Khana ramro tara sewa dhilo cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Restaurant ko mahal ramro cha tara khana le dherai time liyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Sewa ramro thiyo tara khana ko quality ali kamjor lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ma ekdamai masala thiyo. Maile pachauna sakina.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Staff ko sewa ekdamai kharab thiyo. Khana pani mitho thiyena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Ekdamai asantust lagyo. Khana ra sewa dubaima kami cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko sewa dherai ramro cha. Ma dherai patyak cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Yo jagga ko mahal ramro thiyo tara khana ko swad thikai matra thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Mero anubhav yo restaurant ma ekdamai kharab thiyo. Ma arko palta kehi aune xaina.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko decor dherai sundar cha ra staff ko vyavhaar pani ramro cha.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Maile order gareko khana dherai samay lagyo, thikai thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko quality ramro thiyena ra sewa pani ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko environment dherai ramro cha ra khana pani mitho cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Sewa ramro thiyo tara khana ko portion ali kam thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma khana ekdamai namitho thiyo ra ma ekdamai asantust lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko pizza ekdamai mitho cha. Staff pani ramro cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana thikai thiyo tara parikar ma dherai masala thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile order gareko khana kharab thiyo ra sewa pani dhilo thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo jagga ma dining experience ekdamai ramro thiyo. Khana mitho ra sewa ramro.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko swad ramro thiyo tara sewa ma ali kami lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ekdamai dhilo aayo ra swad pani ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dining ma dherai majja aayo. Staff ko vyavhaar dherai ramro cha.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Restaurant ko ambiance ramro thiyo tara khana ma dherai time lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana dherai besaile pakeko thiyo ra ma asantust bhae.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko khana ko swad ekdamai mitho cha. Ma dherai khusi chu.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Sewa ramro thiyo tara khana ali dhilo aayo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile khana ko order garnu parne belama ekdamai samay lagyo ra khana ko swad ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dining ko anubhav dherai ramro thiyo. Khana dherai mitho cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko swad thikai thiyo tara staff ko vyavhaar ramro thiyena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ekdamai namitho thiyo ra sewa pani ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dining ma dherai khushi lagyo. Khana dherai mitho cha ra staff pani ramro cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Sewa ramro thiyo tara khana ko swad thikai thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile khana ko order garna ekdamai samay lagyo ra khana pani ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko khana dherai ramro cha ra staff ko vyavhaar pani ramro cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko swad thikai thiyo tara sewa ramro thiyena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ekdamai kharab thiyo ra staff ko vyavhaar pani ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko parikar dherai mitho cha ra staff pani dherai helpful cha.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Sewa ramro thiyo tara khana ko portion ali kam thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile order gareko khana ekdamai namitho thiyo ra sewa pani kharab thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko khana dherai swaadilo cha. Ma dherai khusi chu.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana thikai thiyo tara sewa ali dhilo thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile order gareko khana dherai namitho thiyo ra ma ekdamai asantust bhae.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko dining experience ekdamai ramro cha. Khana dherai mitho cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko swad thikai thiyo tara staff ko vyavhaar ramro thiyena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ekdamai kharab thiyo ra sewa pani ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko khana ko quality dherai ramro cha. Ma dherai patyak chu.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Sewa ramro thiyo tara khana ali dhilo aayo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile khana ko order garnu parne belama ekdamai samay lagyo ra khana ko swad ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dining ko anubhav ekdamai ramro thiyo. Khana dherai mitho cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko swad thikai thiyo tara staff ko vyavhaar ramro thiyena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ekdamai namitho thiyo ra sewa pani ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dining ma dherai khushi lagyo. Khana dherai mitho cha ra staff pani ramro cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Sewa ramro thiyo tara khana ko swad thikai thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile khana ko order garna ekdamai samay lagyo ra khana pani ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko khana dherai ramro cha ra staff ko vyavhaar pani ramro cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko swad thikai thiyo tara sewa ramro thiyena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ekdamai kharab thiyo ra staff ko vyavhaar pani ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko parikar dherai mitho cha ra staff pani dherai helpful cha.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Sewa ramro thiyo tara khana ko portion ali kam thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile order gareko khana ekdamai namitho thiyo ra sewa pani kharab thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko khana dherai swaadilo cha. Ma dherai khusi chu.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana thikai thiyo tara sewa ali dhilo thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile order gareko khana dherai namitho thiyo ra ma ekdamai asantust bhae.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko dining experience ekdamai ramro cha. Khana dherai mitho cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko swad thikai thiyo tara staff ko vyavhaar ramro thiyena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ekdamai kharab thiyo ra sewa pani ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko khana ko quality dherai ramro cha. Ma dherai patyak chu.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Sewa ramro thiyo tara khana ali dhilo aayo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile khana ko order garnu parne belama ekdamai samay lagyo ra khana ko swad ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dining ko anubhav ekdamai ramro thiyo. Khana dherai mitho cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko swad thikai thiyo tara staff ko vyavhaar ramro thiyena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ekdamai namitho thiyo ra sewa pani ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dining ma dherai khushi lagyo. Khana dherai mitho cha ra staff pani ramro cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Sewa ramro thiyo tara khana ko swad thikai thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile khana ko order garna ekdamai samay lagyo ra khana pani ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko khana dherai ramro cha ra staff ko vyavhaar pani ramro cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko swad thikai thiyo tara sewa ramro thiyena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ekdamai kharab thiyo ra staff ko vyavhaar pani ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko atmosphere ekdamai ramro cha. Ma aile yaha feri auna chahanchu.",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko swad thikai thiyo tara price dherai mahango lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ekdamai basale khayo ra service pani naramro thiyo. Ma arko choti yaha aaudina.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Restaurant ma family sang dining garna ramailo lagyo. Staff dherai helpful thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko quality thikai thiyo tara ambience ramro lagena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Sewa ekdamai naramro thiyo ra khana pani khas ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko biryani dherai mitho cha. Ma sabailai recommend garchu.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Staff ramro thiyo tara khana ma flavour ko kami thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Yo jagga ma experience ekdamai niraasha janak thiyo. Khana pani kharab thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Maile yo restaurant ma khana dherai patyaune cha. Sewa pani ramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko portion thikai thiyo tara presentation ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Staff ko vyavhaar rude thiyo ra khana ma swad pani thiyena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dining garera ekdamai ramailo lagyo. Khana mitho ra staff ni helpful.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko swad thikai thiyo tara ambience dherai loud thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile order gareko khana dherai namitho thiyo ra service pani slow thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko drinks ekdamai refreshing thiyo. Ma sabailai suggest garchu.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Sewa ramro thiyo tara khana ali expensive lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Ma yo restaurant ma ekdamai disappointed bhae. Khana ma swad nai thiyena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dining experience ekdamai ramro thiyo. Khana ko presentation ni ramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ramro thiyo tara waiting time dherai lamo thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Staff rude thiyo ra maile order gareko khana kharab thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko service ekdamai fast ra efficient cha. Ma sabailai recommend garchu.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Ambience ramro thiyo tara khana ko swad ali thikai thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko swad ekdamai kharab thiyo ra ma pharkina chahandina.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko dessert ekdamai mitho thiyo. Staff pani helpful thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Sewa thikai thiyo tara khana ko quality ma improvement cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Ma yo restaurant ma disappointed bhae. Khana ko swad ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dining garera dherai khushi lagyo. Khana ko taste ekdamai ramro cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Ambience dherai loud thiyo tara khana ko swad ramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Staff ko vyavhaar ekdamai rude thiyo ra khana ko swad ni kharab thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma maile sabai bhanda best dining experience paye. Khana mitho ra service fast.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko taste thikai thiyo tara presentation ramro lagena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Ma yo restaurant ma khana ra service dubaima niraasha bhae.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma khana ko variety ekdamai ramro cha. Ma aile feri aaune sochirahechu.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko quality ramro thiyo tara staff ko vyavhaar friendly bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma service slow thiyo ra khana ko swad ni ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dining ko experience ekdamai ramro thiyo. Ma sabailai suggest garchu.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ramro thiyo tara price dherai high lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile order gareko khana ekdamai kharab thiyo ra staff rude thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma environment dherai ramailo cha ra khana mitho cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko portion ali kam thiyo tara staff ramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Sewa ramro thiyena ra khana ko swad pani kharab thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma maile sabai bhanda best dining experience paye. Khana ko swad ekdamai ramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko quality thikai thiyo tara ambience ali loud thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dining ko anubhav ekdamai disappointing thiyo. Khana ma swad thiyena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma maile best pizza khai. Staff pani dherai friendly thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana thikai thiyo tara service slow thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ma swad thiyena ra staff pani attentive bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dining garera ekdamai ramailo lagyo. Khana dherai mitho cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana thikai thiyo tara price ali high lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Sewa ekdamai kharab thiyo ra khana pani namitho thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma maile sabai bhanda best dessert paye. Staff pani helpful thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Ambience ramro thiyo tara khana ko portion ali kam thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma maile khana dherai patyaune payena. Khana ma swad thiyena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma maile khana ra service dubaima ramro paye. Ma sabailai recommend garchu.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko taste thikai thiyo tara service ali dhilo thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko swad ekdamai naramro thiyo ra ma ekdamai disappointed bhae.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma khana dherai mitho cha ra staff pani friendly cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana thikai thiyo tara waiting time dherai lamo thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile yo restaurant ma ekdamai kharab experience paye. Khana ra sewa dubaima kami thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma maile khana dherai mitho paye. Ma aile feri aaune sochirahechu.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko taste thikai thiyo tara staff ko vyavhaar rude lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma sewa ekdamai slow thiyo ra khana ko swad ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dining garera dherai ramailo lagyo. Staff ni dherai helpful thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko portion thikai thiyo tara presentation ramro lagena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Sewa ekdamai naramro thiyo ra khana ma swad thiyena. Ma arko choti aaudina.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma maile sabai bhanda best dining experience paye. Khana ra sewa dubaima ramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko swad thikai thiyo tara price ali high lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Maile yo restaurant ma khana ra sewa dubaima disappointing paye.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dining ko anubhav dherai ramro thiyo. Khana dherai swaadilo cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Ambience ramro thiyo tara khana ko portion ali kam lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma khana dherai kharab thiyo ra sewa pani ramro bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma maile sabai bhanda best pizza paye. Ma sabailai recommend garchu.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko taste thikai thiyo tara service slow thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Khana ekdamai naramro thiyo ra staff ko vyavhaar pani friendly bhayena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma dining garera dherai khushi lagyo. Khana dherai ramro cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana thikai thiyo tara price ali high lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Sewa ekdamai kharab thiyo ra khana pani namitho thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma maile sabai bhanda best dessert paye. Staff pani helpful thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Ambience ramro thiyo tara khana ko portion ali kam thiyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma maile khana dherai patyaune payena. Khana ma swad thiyena.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko dessert section ekdam ramro thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko seating arrangement manparena.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Staff haru sabai polite ra quick thiye.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Food quality sadhai jastai thik thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Parking ko suvidha ramro cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko environment dherai noisy thiyo.",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo jagga perfect thiyo family dinner ka lagi.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Restaurant ma basna ko lagi comfortable xaina.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Beverages ko variety dherai ramro cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Service ali slow thiyo, but food swadilo thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ma live music dherai manparyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Cleanliness ko maamla ma thik thiyena.",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Food portions ekdam thulo thiyo, worth the price.",
+        "aspects": [
+            {
+                "aspect": "price",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Staff le order liyera prastut garna samay lagayo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Menu ma authentic Nepali khana pauna manparyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Restroom dherai chhoto cha, not comfortable.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko taste ma continuity cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko view ekdam sundar cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Order patra pauna kaam garna paryo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Reservation system dherai ramro cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Buffet system ali improve garnu parcha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Ma dherai choti yo restaurant visit garna chaheko chu.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ma dherai tel thiyo, healthy xaina.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Restaurant ko decor modern ra stylish cha.",
+        "aspects": [
+            {
+                "aspect": "environment",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "WiFi service reliable xaina.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Customer service satisfactory cha.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Special occasions ko lagi perfect thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko location ali dur xa.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Outdoor seating experience dherai ramailo thiyo.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Bill patra ma wait garnu paryo, service slow thiyo.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko khana ekdam mitho cha, ra staff pani friendly cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Sajha ko time ma jadai nabhannu, dherai wait garnu parcha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo place chai chill garna ekdam ramro cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Restaurant ko interior thik thak cha, tara khana ma mazza xaina.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Khana ko price ali high cha, tara taste chai fine cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "price",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko momo ekdam dherai mitho lagyo.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Service slow cha, tara khana ko taste ekdam ramro cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "neutral"
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Staff rude cha, ani cleanliness pani ramro xaina.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "negative"
+            },
+            {
+                "aspect": "environment",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo place chai couple haru ko lagi ramro cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Ambience ekdam ramro cha, music pani thik cha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Khana ma masala dherai cha, health conscious haru ko lagi thik xaina.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Ek choti yetti derei swadilo khana kahile khayeko thina.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Parking ko space nai xaina, gaadi kaha rakhera janey.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko chai hygiene maintain cha, yo man parcha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Desserts ekdam mitho cha, tara main course ma improvement chaidaina.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Family sangako outing ko lagi perfect cha yo place.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Customer service improve garnu parcha, aru sab thikai cha.",
+        "aspects": [
+            {
+                "aspect": "service",
+                "sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "text": "Yo place ma chai lunch time ma najanus, dherai wait garnu parcha.",
+        "aspects": [
+            {
+                "aspect": "general",
+                "sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "text": "Yo restaurant ko chai biryani dherai mitho cha.",
+        "aspects": [
+            {
+                "aspect": "food",
+                "sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "text": "Ambience ramro cha, tara price ali high cha.",
+        "aspects": [
+            {
+                "aspect": "price",
+                "sentiment": "neutral"
+            }
+        ]
+    }
+]

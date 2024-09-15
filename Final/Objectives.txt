@@ -1,0 +1,5 @@
+Dataset Creation: To compile a comprehensive dataset of restaurant reviews written in Nepali Romanized Text , annotated with specific aspects such as food, service, ambiance, and pricing.
+
+Model Implementation: To develop and evaluate various machine learning and deep learning models for Aspect-Based Sentiment Analysis, including Random Forest, SVM, KNN, LSTM, CNN, and BERT.
+
+Performance Evaluation: To assess the effectiveness of these models in accurately identifying aspects and determining sentiment polarity in Nepali Romanized English reviews.
